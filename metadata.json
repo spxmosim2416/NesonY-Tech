@@ -1,0 +1,8 @@
+{
+  "name": "MesonY Tech",
+  "description": "MesonY Technology Pvt Ltd is a multi-service platform providing Finance, Insurance, Automobile Technical services, and Digital IT solutions in Jewar, Uttar Pradesh.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
